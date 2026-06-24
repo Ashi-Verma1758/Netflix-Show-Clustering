@@ -1,5 +1,12 @@
 # Netflix Show Clustering & Recommendation System
 
+## Live Demo
+
+🚀 Deployed Application:
+[https://your-app-name.streamlit.app](https://netflix-show-clustering.streamlit.app/)
+
+---
+
 ## Overview
 
 This project uses Machine Learning and Natural Language Processing (NLP) techniques to cluster Netflix titles into meaningful groups and recommend similar content.
@@ -14,8 +21,8 @@ The system analyzes Netflix movies and TV shows using TF-IDF vectorization, K-Me
 * Exploratory Data Analysis (EDA)
 * TF-IDF Vectorization
 * K-Means Clustering
-* Cluster Visualization
 * Content-Based Recommendation Engine
+* Cluster Visualization using TruncatedSVD
 * Interactive Streamlit Dashboard
 * Cluster Analytics
 
@@ -33,22 +40,20 @@ The system analyzes Netflix movies and TV shows using TF-IDF vectorization, K-Me
 
 ---
 
-## Machine Learning Workflow
+## Live Demo Preview
 
-Dataset
-→ Data Cleaning
-→ Feature Engineering
-→ TF-IDF Vectorization
-→ K-Means Clustering
-→ Cosine Similarity
-→ Recommendation System
-→ Streamlit Deployment
+Visit the deployed application to:
+
+* Browse Netflix titles
+* Get similar show recommendations
+* Explore cluster analytics
+* Analyze content distributions
 
 ---
 
 ## Project Structure
 
-Netflix-Recommender/
+Netflix-Show-Clustering/
 
 ├── app.py
 
@@ -64,30 +69,10 @@ Netflix-Recommender/
 
 ---
 
-## How To Run
-
-Install dependencies:
-
-pip install -r requirements.txt
-
-Run application:
-
-streamlit run app.py
-
----
-
-## Future Improvements
-
-* BERT Embeddings
-* Hybrid Recommendation System
-* Netflix Poster Integration
-* User Authentication
-* Personalized User Profiles
-
----
-
 ## Author
 
 Ashi Verma
-B.Tech CSE | AI & ML
+
+B.Tech CSE (AI & ML)
+
 DIT University
