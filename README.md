@@ -3,7 +3,7 @@
 ## Live Demo
 
 🚀 Deployed Application:
-[https://your-app-name.streamlit.app](https://netflix-show-clustering.streamlit.app/)
+[(https://netflix-show-clustering.streamlit.app)](https://netflix-show-clustering.streamlit.app/)
 
 ---
 
